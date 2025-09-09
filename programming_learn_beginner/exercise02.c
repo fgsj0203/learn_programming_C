@@ -19,9 +19,8 @@ int main()
     printf("Number two: ");
     scanf("%d", &number_two);
 
-    // int sum_numbers = number_one + number_two; // Creating variable exclusive for calculate sum of two numbers
     sum_numbers = number_one + number_two;
 
-    printf("Sum of two numbers: %d\n", (number_one + number_two));
-    printf("Second format of two numbers is: %d", sum_numbers);
+    printf("Sum of two numbers: %d\n", (number_one + number_two)); // First format of printing value (number_one + number_two)
+    printf("Second format of two numbers is: %d", sum_numbers);    // Second format using and storage data directly in variable (sum_numbers)
 }
