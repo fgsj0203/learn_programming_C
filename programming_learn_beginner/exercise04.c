@@ -1,7 +1,7 @@
 /*
 Author: Francisco Gomes da Silva Junior
 Date: 09/09/2025 - in format Brazil
-Description: Read a two numbers, calculate sum numbers and printing value final
+Description: Read a two numbers, calculate subtraction of numbers and printing value final
 version: 1.0
 */
 
