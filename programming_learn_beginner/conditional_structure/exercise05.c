@@ -1,6 +1,6 @@
 /*
 Author: Francisco Gomes da Silva Junior
-Date: 09/09/2025 - in format Brazil
+Date: 10/09/2025 - in format Brazil
 Description: read a two numbers and printing smaller value
 version: 1.0
 */

@@ -1,6 +1,6 @@
 /*
 Author: Francisco Gomes da Silva Junior
-Date: 09/09/2025 - in format Brazil
+Date: 10/09/2025 - in format Brazil
 Description: read two number is identify a bigger number
 version: 1.0
 */
