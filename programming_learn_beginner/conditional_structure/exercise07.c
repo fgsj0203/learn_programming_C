@@ -1,7 +1,7 @@
 /*
 Author: Francisco Gomes da Silva Junior
 Date: 12/09/2025 - in format Brazil
-Description: Read note of test student and identify status
+Description: Read note of test student and identify status, if value is bigger 7 return approved
 version: 1.0
 */
 
