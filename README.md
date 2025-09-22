@@ -10,3 +10,7 @@
 **Descrição do repositório:** Aqui neste repositório você irá encontrar duas pastas, a primeira é referente a uma lista de exercícios na linguagem C abordando os fundamentos da linguagem e suas estruturas. 
                               E na segunda pasta o código da primeira versão de um jogo referente ao super trunfo, ainda em sua primeira versão sem nenhuma validação de dados, apenas manipulação de variavéis e seus valores.
                               nas próximas versões haverão lógica de validação de dados e comparação de valores.
+
+| Estruturas abordadas da linguagem C |
+|-------------------------------------|
+|Estrutura sequencial|
