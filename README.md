@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b2912544-fd12-47f8-b9dc-0b657f22babe" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/b2912544-fd12-47f8-b9dc-0b657f22babe" />
 
 # Exercícios em C e um jogo de super Trunfo
 
