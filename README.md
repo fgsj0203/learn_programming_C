@@ -29,7 +29,14 @@
 ### Próximo passo  
 -> Copiar esse caminho (C:\msys64\ucrt64\bin) que você instalou no seu computador, vá em variáveis de ambiente e inclue tal caminho na pasta *path* 
 
-## E por fim para checar as versões e se o compilador foi instalado com sucesso
+## Checando a instalação do compilador
+> Copiar o script abaixo e colar no MinGW <br>
 **gcc --version** <br>
 **g++ --version** <br>
 **gdb --version** <br>
+
+-----------------------------------------------
+
+> [!IMPORTANT]
+> Para mais informações a respeito de como instalar o compilador C em seu computador, segue o link para a documentação oficial da Microsoft
+> https://code.visualstudio.com/docs/cpp/config-mingw
