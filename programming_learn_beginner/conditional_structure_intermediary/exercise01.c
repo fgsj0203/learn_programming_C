@@ -21,7 +21,7 @@ int main()
     {
         printf("Input invalid, try again with a number input\n");
         int ch;
-        while ((ch = getchar()) != '\n' && ch != EOF) // Cleaning memory buffer
+        while ((ch = getchar()) != '\n' && ch != EOF) // Cleaning memory buffer. Pendent for learn deep about content
             ;
         printf("Input a only data type integer and number\n");
         scanf(" %d", &number);
