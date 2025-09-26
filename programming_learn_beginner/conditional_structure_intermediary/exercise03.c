@@ -24,21 +24,23 @@ int main()
 
     // validating data user input
     // First validation
-    if (number_one >= number_two && number_one > number_three && number_two > number_three)
+    if (number_one < number_two && number_two < number_three)
     {
-        printf("Number three is smaller, the number is: %d", number_three);
-        if (number_one == number_two)
-        {
-            printf("Number one is equal a number two: %d = %d", number_one, number_two);
-        }
-        else if (number_one == number_three)
-        {
-            printf("number one is equal a number three: %d = %d", number_one, number_three);
-        }
-        else
-        {
-            printf("Number two is equal a number three: %d = %d", number_two, number_three);
-        }
+        printf("Number one is smaller. The number: %d\n", number_one);
+    }
+    else if (number_two < number_three)
+    {
+        printf("Number two is smaller. The number: %d\n", number_two);
+    }
+    else
+    {
+        printf("Number three is smaller. The number: %d\n", number_three);
+    }
+
+    // validating if any number is equal
+    if (number_one == number_two || number_one == number_three || number_two == number_three)
+    {
+        printf("Two numbers is equal");
     }
 
     return 0;
