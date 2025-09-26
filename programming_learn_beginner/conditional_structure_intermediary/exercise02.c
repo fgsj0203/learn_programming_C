@@ -1,6 +1,6 @@
 /*
 Author: Francisco Gomes da Silva Junior
-Date: 24/09/2025 - in format Brazil
+Date: 26/09/2025 - in format Brazil
 Description: read two numbers and printing a bigger number. If two numbers is equal, notify user.
 version: 1.0
 */

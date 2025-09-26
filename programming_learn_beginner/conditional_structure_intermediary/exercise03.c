@@ -1,6 +1,6 @@
 /*
 Author: Francisco Gomes da Silva Junior
-Date: 24/09/2025 - in format Brazil
+Date: 26/09/2025 - in format Brazil
 Description: read three numbers and printing a smaller number. If some a number is equal, notify user.
 version: 1.0
 */

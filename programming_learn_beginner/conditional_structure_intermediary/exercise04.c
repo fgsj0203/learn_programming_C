@@ -1,6 +1,6 @@
 /*
 Author: Francisco Gomes da Silva Junior
-Date: 24/09/2025 - in format Brazil
+Date: 26/09/2025 - in format Brazil
 Description: read number and calculate if number is pair or odd (valid for number negative)
 version: 1.0
 */
