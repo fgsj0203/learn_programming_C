@@ -19,7 +19,7 @@ int main()
     // Validating input data
     if (number < 0)
     {
-        number = number * (-1);
+        number = number * (-1); // multiplication for (-1) is casting number negative -> number positive
         if (number % 2 == 0)
         {
             printf("Number is pair. Number: %d\n", number);
