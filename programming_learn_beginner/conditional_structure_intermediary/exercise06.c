@@ -25,6 +25,12 @@ int main()
     // calculate average of notes
     average_notes = (note_one + note_two + note_three) / 3.0;
 
+    // validation of number is positive
+    if (average_notes < 0)
+    {
+        average_notes = average_notes * (-1);
+    }
+
     // Validation status of student
     if (average_notes >= 7.0 && average_notes <= 10.0)
     {
