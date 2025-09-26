@@ -44,4 +44,6 @@ int main()
     {
         printf("You is repproved. The note is: %.2f\n", average_notes);
     }
+
+    return 0;
 }
